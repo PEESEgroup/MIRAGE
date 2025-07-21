@@ -1,6 +1,8 @@
 # MIRAGE
 The code repo for paper ``MIRAGE: Biomechanically-Interpretable Maize Plant 3D Generation and Single-view Reconstruction``
+---
 
+![Graphical_Abstract](flowchart.png)
 
 ## Requirements
 This project is designed for **Python 3.10** and depends on the following core packages:
